@@ -1,6 +1,7 @@
 #!/bin/bash
+source vars.txt
 
 echo "Hello, World"
-echo "Today's date is $(date)"
+echo -e "Hi My name is $Name and I am from $Location.\n Today's date is $(date)"
 echo "Have a Good day"
 
