@@ -1,6 +1,6 @@
 #!/bin/bash
 
 echo "Hello, World"
-echo "My name is Don"
+echo "Today's date is $(date)"
+echo "Have a Good day"
 
-echo "Not SRK Don but Don Bradman"
